@@ -4,7 +4,7 @@
 
 ## Introduction
 
-BAT Tab is a great way to keep tabls on the entire market. BAT Tab provides realtime streaming price, news, social media and community posts, and code checkins by Brave developers right inside each new tab.
+Bitcoin Cash Tab is a great way to keep tabs on the entire market. Bitcoin Cash Tab provides realtime streaming price, news, social media and community posts, and code checkins by developers right inside each new tab.
 
 ## What does it look like?
 
@@ -13,10 +13,10 @@ It's a well designed tab, give you a commanding view of the market. Take a peek:
 <p align="center">
     <img 
         width="400px"
-        src="https://github.com/Blockmodo/art/blob/master/extensions/bat_tab_screenshot.png"
+        src="https://github.com/Blockmodo/art/blob/master/extensions/bch_tab_screenshot.png"
     />
 </p>
 
 ## Community
 
-BAT Tab is maintained by Blockmodo and we're on Telegram. Visit us [on Telegram](https://t.me/blockmodo_developers)
+Bitcoin Cash Tab is maintained by Blockmodo and we're on Telegram. It's part of the CryptoTabs series developed and distribunted by Blockmodo. Visit us [on Telegram](https://t.me/blockmodo_developers)
